@@ -3,7 +3,7 @@
 
 
 
-### AIM:
+### AIM:To implement Holt-Winters model on Onion Price Data Set and make future predictions
 
 ### ALGORITHM:
 1. You import the necessary libraries
